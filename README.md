@@ -1,6 +1,6 @@
-# Notes Hub
+# Notes App
 
-Notes Hub is a React app that allows you to create, edit, and delete notes with ease. Notes Hub is a simple and elegant solution for managing your notes in one place.
+Notes App is a React app that allows you to create, edit, and delete notes with ease. Notes Hub is a simple and elegant solution for managing your notes in one place.
 
 ## Features
 

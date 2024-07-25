@@ -61,7 +61,7 @@ const Layout = ({children, window}) => {
                         sx={{mr:2}} 
                         onClick={handleDrawerToggle}
                     >
-                        <MenuOutlined sx={{color:'yellow'}}/>
+                        <MenuOutlined sx={{color:'white'}}/>
                     </IconButton>
                     <Typography variant="h5" flexGrow={1}>
                         Notes App
