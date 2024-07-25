@@ -17,3 +17,38 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Material UI: A popular React UI framework with ready-to-use components
 - date-fns: A modern JavaScript date utility library
 
+## Installation
+
+To run this project locally, you need to have Node.js and npm installed on your machine. You can download them from here.
+
+Clone this repository to your local machine:
+
+```bash
+git clone https://github.com/harishgarg2508/Notes-App.git
+```
+
+Go to the project directory:
+
+```bash
+cd notes-App
+```
+
+Install the dependencies:
+
+```bash
+npm install
+```
+
+Set up the json server:
+
+```bash
+npx json-server --watch data/db.json --port 8000
+```
+
+Start the development server:
+
+```bash
+npm start
+```
+
+Open http://localhost:3000 to view the app in the browser.
