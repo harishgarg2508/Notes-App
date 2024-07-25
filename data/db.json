@@ -1,0 +1,60 @@
+{
+  "notes": [
+    {
+      "title": "Computer Programming",
+      "body": "Hello World!",
+      "category": "Work",
+      "date": "18/07/2024",
+      "id": "1"
+    },
+    {
+      "title": "Real State App!",
+      "body": "Need to complete the project",
+      "category": "Work",
+      "date": "18/07/2024",
+      "id": "7"
+    },
+    {
+      "title": "Search difficult words",
+      "body": "Search for the word in the Dictioary",
+      "category": "Other",
+      "date": "18/07/2024",
+      "id": "11"
+    },
+    {
+      "title": "Travel",
+      "body": "Last date to register for the Shimla trip",
+      "category": "Other",
+      "date": "18/07/2024",
+      "id": "12"
+    },
+    {
+      "id": "3d0c",
+      "title": "laptop",
+      "body": "Need to change the hard disk",
+      "category": "Work",
+      "date": "18/07/2024"
+    },
+    {
+      "id": "4006",
+      "title": "Shoping",
+      "body": "Shoping mobile phones and laptops",
+      "category": "Other",
+      "date": "25/07/2024"
+    },
+    {
+      "id": "28bf",
+      "title": "Plants",
+      "body": "The largest single-stem tree by wood volume and mass is the giant sequoia ",
+      "category": "Educational",
+      "date": "25/07/2024"
+    },
+    {
+      "id": "6a71",
+      "title": "Animals",
+      "body": "Among animals, the largest species are all marine mammals, specifically whales",
+      "category": "Educational",
+      "date": "25/07/2024"
+    }
+  ]
+}
